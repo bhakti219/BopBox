@@ -5,7 +5,7 @@ I’m building this project using **HTML, CSS, and JavaScript** to understand ho
 
 ---
 
- What It Does
+ #What It Does
 
 - Lets you play music directly in the browser  
 - Has a clean and fully responsive layout  
@@ -14,7 +14,7 @@ I’m building this project using **HTML, CSS, and JavaScript** to understand ho
 
 ---
 
-🚧 Project Status
+#🚧 Project Status
 
 This project is currently **under development**.  
 I’m working on:
@@ -26,7 +26,7 @@ I'll keep pushing updates and new features as I build them.
 
 ---
 
- 💻 Technologies Used
+ #💻 Technologies Used
 
 - HTML  
 - CSS  
@@ -34,13 +34,13 @@ I'll keep pushing updates and new features as I build them.
 
 ---
 
-Screenshots & Live Demo
+#Screenshots & Live Demo
 
 Coming soon once the main features are ready.
 
 ---
 
-Goal
+#Goal
 
 To create a fun, working music app from scratch and learn:
 - How to control audio using JavaScript  
@@ -49,7 +49,7 @@ To create a fun, working music app from scratch and learn:
 
 ---
 
-Note
+#Note
 
 This project is made purely for learning and practice. All content used (images/audio) is either temporary or placeholder.
 
