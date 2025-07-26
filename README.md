@@ -1,6 +1,6 @@
  BopBox 🎧
 
-**BopBox** is a simple and responsive music web app inspired by **Spotify**.  
+**BopBox** is a simple and responsive music web app 
 I’m building this project using **HTML, CSS, and JavaScript** to understand how browser-based audio players work and to explore UI/UX design in music platforms.
 
 ---
